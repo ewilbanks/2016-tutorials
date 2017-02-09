@@ -25,6 +25,10 @@ tar xvfz EDAMAME_16S.tar.gz
 Now we'll proceed to our command line tutorial!  Follow the link below.  Be sure you're working from the terminal ssh'd into your EC2 machine on AWS.
 - [Using the command line](https://github.com/ewilbanks/2015-tutorials/blob/master/final/2015-06-22-introduction_to_the_shell.md)
 
+VERY IMPORTANT. When you're done, a proper shutdown is necessary to be sure we don't pay for machines we're not using!  Just closing your terminal window will NOT shut down the AMI.  For this tutorial, we need not save any data we've been working with.  So, terminating is easy.  
+- When you're done, close your terminal
+- Then click on the link below to follow the "Terminate Instance" tutorial.  If you do not terminate, your machine keeps running and it'll rack up a bill : )
+- [Terminating your instance](http://angus.readthedocs.io/en/2016/amazon/terminate-instance.html)
 
 
 
