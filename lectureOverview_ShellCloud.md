@@ -13,7 +13,8 @@ curl -L https://www.dropbox.com/sh/w88b739sr171888/AAB00S4615cM689T9kco6ylLa?dl=
 unzip download.zip
 ```
 
-To get the 16S data use the commands
+These tutorials were designed for the EDAMAME (U Mich) summer course and use a test 16S dataset of soil cores from Centralia, PA test 16S data (from the Shade lab).  Today, we'll use their data and next week, we'll switch over to analyzing our big WHALE of a dataset... (heh)...
+To get the test 16S data, use the commands:
 ```
 cd  
 cd tutorial_shell  
