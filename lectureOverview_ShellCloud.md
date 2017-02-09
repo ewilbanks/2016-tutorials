@@ -21,6 +21,7 @@ wget https://s3.amazonaws.com/edamame/EDAMAME_16S.tar.gz
 tar xvfz EDAMAME_16S.tar.gz
 ```
 
+Now we'll proceed to our command line tutorial!  Follow the link below.  Be sure you're working from the terminal ssh'd into your EC2 machine on AWS.
 - [Using the command line](https://github.com/ewilbanks/2015-tutorials/blob/master/final/2015-06-22-introduction_to_the_shell.md)
 
 
