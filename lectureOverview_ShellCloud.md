@@ -5,9 +5,7 @@
 Once you're logged on to the EC2 instance, use the commands
 
 mkdir tutorial_shell
-
 cd tutorial_shell
-
 mkdir data  
 cd data  
 curl -L https://www.dropbox.com/sh/w88b739sr171888/AAB00S4615cM689T9kco6ylLa?dl=1 > download.zip  
