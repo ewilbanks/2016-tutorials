@@ -5,6 +5,7 @@
 Once you're logged on to the EC2 instance, use the commands
 
 mkdir tutorial_shell
+
 cd tutorial_shell
 mkdir data  
 cd data  
